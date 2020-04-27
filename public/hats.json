@@ -1,9 +1,9 @@
 {
     "none": {
-        "displayName": "Off"
+        "displayName": "None"
     },
-		"a": {
-        "displayName": "a",
+		"sword-fate": {
+        "displayName": "Dark Excalibur",
         "resourceName": "sword-fate.glb",
         "scale": {
             "x": 0.1,
@@ -20,81 +20,5 @@
             "y": -0.015,
             "z": 0.08
         }
-    },
-		"b": {
-        "displayName": "b",
-        "resourceName": "sword-fate.glb",
-        "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
-        },
-        "rotation": {
-            "x": 90,
-            "y": 90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.74,
-            "y": -0.015,
-            "z": 0.07
-        }
-    },
-		"c": {
-        "displayName": "c",
-        "resourceName": "sword-fate.glb",
-        "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
-        },
-        "rotation": {
-            "x": 90,
-            "y": 90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.74,
-            "y": -0.015,
-            "z": 0.06
-        }
-    },
-		"d": {
-        "displayName": "d",
-        "resourceName": "sword-fate.glb",
-        "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
-        },
-        "rotation": {
-            "x": 90,
-            "y": 90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.74,
-            "y": -0.014,
-            "z": 0.05
-        }
-    },
-		"e": {
-        "displayName": "e",
-        "resourceName": "sword-fate.glb",
-        "scale": {
-            "x": 0.1,
-            "y": 0.1,
-            "z": 0.1
-        },
-        "rotation": {
-            "x": 90,
-            "y": 90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.74,
-            "y": -0.016,
-            "z": 0.06        
-		}
     }
 }
