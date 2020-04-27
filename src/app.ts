@@ -135,10 +135,10 @@ export default class WearAHat {
 				parentId: menu.id,
 				name: 'label',
 				text: {
-					contents: ''.padStart(8, ' ') + "Wear a Hat",
+					contents: ''.padStart(8, ' ') + "Weaps",
 					height: 0.8,
 					anchor: MRE.TextAnchorLocation.MiddleCenter,
-					color: MRE.Color3.Yellow()
+					color: MRE.Color3.Black()
 				},
 				transform: {
 					local: { position: { x: 0.5, y: y + 0.25, z: 0 } }
@@ -202,7 +202,7 @@ export default class WearAHat {
 					}
 				},
 				attachment: {
-					attachPoint: 'head',
+					attachPoint: 'right-hand',
 					userId
 				}
 			}
