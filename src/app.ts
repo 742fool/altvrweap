@@ -135,7 +135,7 @@ export default class WearAHat {
 				parentId: menu.id,
 				name: 'label',
 				text: {
-					contents: ''.padStart(8, ' ') + "Weaps",
+					contents: ''.padStart(8, ' ') + "Weapons",
 					height: 0.8,
 					anchor: MRE.TextAnchorLocation.MiddleCenter,
 					color: MRE.Color3.Black()
