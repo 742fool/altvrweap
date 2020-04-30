@@ -2,6 +2,25 @@
     "none": {
         "displayName": "None"
     },
+		"mememe-pulsegun": {
+        "displayName": "Pulse Gun",
+        "resourceName": "mememegun.glb",
+        "scale": {
+            "x": 0.074,
+            "y": 0.074,
+            "z": 0.074
+        },
+        "rotation": {
+            "x": 90,
+            "y": -90,
+            "z": 0
+        },
+        "position": {
+            "x": -0.03,
+            "y": -0.02,
+            "z": 0.18
+        }
+    },
 		"sword-fate": {
         "displayName": "Dark Excalibur",
         "resourceName": "sword-fate.glb",
@@ -19,101 +38,6 @@
             "x": -0.74,
             "y": -0.015,
             "z": 0.08
-        }
-    },
-		"gun": {
-        "displayName": "Gun",
-        "resourceName": "mememegun.glb",
-        "scale": {
-            "x": 0.074,
-            "y": 0.074,
-            "z": 0.074
-        },
-        "rotation": {
-            "x": 90,
-            "y": -90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.03,
-            "y": -0.02,
-            "z": 0.1
-        }
-    },
-		"gun1": {
-        "displayName": "Gun1",
-        "resourceName": "mememegun.glb",
-        "scale": {
-            "x": 0.074,
-            "y": 0.074,
-            "z": 0.074
-        },
-        "rotation": {
-            "x": 90,
-            "y": -90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.03,
-            "y": -0.02,
-            "z": 0.12
-        }
-    },
-		"gun2": {
-        "displayName": "Gun2",
-        "resourceName": "mememegun.glb",
-        "scale": {
-            "x": 0.074,
-            "y": 0.074,
-            "z": 0.074
-        },
-        "rotation": {
-            "x": 90,
-            "y": -90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.03,
-            "y": -0.02,
-            "z": 0.14
-        }
-    },
-		"gun3": {
-        "displayName": "Gun3",
-        "resourceName": "mememegun.glb",
-        "scale": {
-            "x": 0.074,
-            "y": 0.074,
-            "z": 0.074
-        },
-        "rotation": {
-            "x": 90,
-            "y": -90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.03,
-            "y": -0.02,
-            "z": 0.16
-        }
-    },
-		"gun4": {
-        "displayName": "Gun4",
-        "resourceName": "mememegun.glb",
-        "scale": {
-            "x": 0.074,
-            "y": 0.074,
-            "z": 0.074
-        },
-        "rotation": {
-            "x": 90,
-            "y": -90,
-            "z": 0
-        },
-        "position": {
-            "x": -0.03,
-            "y": -0.02,
-            "z": 0.18
         }
     }
 }
